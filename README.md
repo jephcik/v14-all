@@ -12,7 +12,7 @@ Merhaba, Bu projeye 100 yıldız (star) geldiğinde, büyük olasılıkla botu p
 </details>
 <details>
   <summary>Ekonomi Komutları</summary>
-# YAKINDA
+
 ![image](https://github.com/jephcik/v14-all/assets/82638394/24c84bdf-ca89-46d1-a4e7-36c1ae6b6a8e)
 ![image](https://github.com/jephcik/v14-all/assets/82638394/6a0ed35e-387b-4768-98fa-e88631e517e4)
 ![image](https://github.com/jephcik/v14-all/assets/82638394/53259b9d-fa00-4761-9f32-ad26ec3d0387)
