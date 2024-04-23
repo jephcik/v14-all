@@ -42,6 +42,7 @@ Merhaba, Bu projeye 100 yıldız (star) geldiğinde, büyük olasılıkla botu p
   <summary>Ekstra Komutlar</summary>
 # YAKINDA
 </details>
+
 ## 🐻‍❄️ Author & Lisence
 
 
