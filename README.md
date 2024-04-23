@@ -38,7 +38,6 @@ Merhaba, Bu projeye 100 yıldız (star) geldiğinde, büyük olasılıkla botu p
 </details>
 <details>
   <summary>Bot Owner Komutları</summary>
-# YAKINDA
 
 ![image](https://github.com/jephcik/v14-all/assets/82638394/5957d1f1-cb27-4e08-9c87-466bf1b6063b)
 ![image](https://github.com/jephcik/v14-all/assets/82638394/41ad9b53-9096-4540-b966-45303fbf8525)
