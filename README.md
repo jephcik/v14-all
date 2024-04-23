@@ -21,6 +21,8 @@ Merhaba, Bu projeye 100 yıldız (star) geldiğinde, büyük olasılıkla botu p
 ![image](https://github.com/jephcik/v14-all/assets/82638394/bd6ebc60-8884-47b4-86f9-9e8f37bcac83)
 ![image](https://github.com/jephcik/v14-all/assets/82638394/c10c2d37-97b2-4629-a186-995d4bef4d56)
 ![image](https://github.com/jephcik/v14-all/assets/82638394/b184c301-23b3-400a-86b9-40da91711a3f)
+![Adsız tasarım (2)](https://github.com/jephcik/v14-all/assets/82638394/e386c729-eec8-49f4-b885-04c256c3985c)
+
 </details>
 <details>
   <summary>Yetkili Komutları</summary>
